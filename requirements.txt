@@ -1,0 +1,6 @@
+pydantic
+pymongo
+bs4
+requests
+gzip
+datetime
